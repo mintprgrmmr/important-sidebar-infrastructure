@@ -1,0 +1,28 @@
+{
+  "gap": 0,
+  "position": "top",
+  "icons": [
+    {
+      "name": "tapir",
+      "source": "plugin",
+      "path": "icons/tapir.png",
+      "enabled": true,
+      "size": 30,
+      "renderMode": "image",
+      "tint": "#ff0000",
+      "tintSource": "custom",
+      "opacity": 1
+    },
+    {
+      "name": "paws literally",
+      "source": "plugin",
+      "path": "icons/paws lit.png",
+      "enabled": true,
+      "size": 50,
+      "renderMode": "image",
+      "tint": "#ff0000",
+      "tintSource": "custom",
+      "opacity": 1
+    }
+  ]
+}
